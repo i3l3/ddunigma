@@ -1,6 +1,5 @@
 ## DDUNIGMA
-[온라인 변환기](https://ddunigma.lsam.me)
-
+[온라인 변환기](https://ddunigma.lsam.me) [PYPI 레포지토리](https://pypi.org/project/ddunigma/0.0.1/)
 뜌땨어 고수가 될거야!
 
 ## 설치
